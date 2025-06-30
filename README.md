@@ -1,0 +1,1 @@
+An implementation of a student course registration system using Object-Oriented Programming (OOP) principles in C++. It simulates a university system where students can register for courses, calculate their tuition fees, and view their GPA.
